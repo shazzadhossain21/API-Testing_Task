@@ -1,0 +1,11 @@
+firstname,lastname,totalprice,depositpaid,checkin,checkout,additionalneeds
+Shazzad,Hossain,501,TRUE,3/28/2025,4/3/2025,Lunch
+Zahidur,Sarker,702,FALSE,3/30/2025,4/5/2025,Breakfast
+Rahim,Islam,503,FALSE,5/3/2025,3/6/2025,Dinner
+Salma,Khatun,103,TRUE,3/30/2025,4/5/2025,Lunch
+Kamal,Islam,406,FALSE,3/28/2025,4/3/2025,Dinner
+Rumaiya,Islam,599,TRUE,4/15/2025,4/15/2025,Breakfast
+Anannya,Haque,700,TRUE,8/12/2025,8/16/2025,Dinner
+Mujib ,Hossain,855,FALSE,7/9/2025,7/12/2025,Dinner
+Saif,Islam,450,TRUE,5/15/2025,5/16/2025,Lunch
+Mahi,Uddin,940,TRUE,9/22/2025,9/24/2025,Lunch
